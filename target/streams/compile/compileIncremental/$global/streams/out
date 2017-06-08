@@ -18,7 +18,7 @@
 [0m[[0minfo[0m] [0mCompiling 6 Scala sources to D:\workspace\TestingBase\target\scala-2.11\classes...[0m
 [0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.13:component from component compiler for Scala 2.11.8[0m
 [0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.13:component from component compiler for Scala 2.11.8[0m
-[0m[[0mdebug[0m] [0mRunning cached compiler 4eb590ee, interfacing (CompilerInterface) with Scala compiler version 2.11.8[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler c4268a6, interfacing (CompilerInterface) with Scala compiler version 2.11.8[0m
 [0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
 [0m[[0mdebug[0m] [0m	-bootclasspath[0m
 [0m[[0mdebug[0m] [0m	C:\Program Files\Java\jre1.8.0_102\lib\resources.jar;C:\Program Files\Java\jre1.8.0_102\lib\rt.jar;C:\Program Files\Java\jre1.8.0_102\lib\sunrsasign.jar;C:\Program Files\Java\jre1.8.0_102\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_102\lib\jce.jar;C:\Program Files\Java\jre1.8.0_102\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_102\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_102\classes;C:\Users\raouf.khan\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar[0m
